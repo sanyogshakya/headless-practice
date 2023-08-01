@@ -1,6 +1,12 @@
-## Files for Headless CMS project
+## Headless CMS project
 
-Used technologies: WordPress GraphQL NextJS
+#### Used technologies:
+
+- WordPress
+- GraphQL
+- Next.js
+
+#### Features
 
 - Header and footer.
 - Home page slider and full width image.
