@@ -1,0 +1,1 @@
+This block is used to render search box. No configuration is required.

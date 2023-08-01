@@ -1,0 +1,13 @@
+{
+  "name": "acf/banner",
+  "title": "Banner",
+  "description": "A sliding banner.",
+  "category": "design",
+  "keywords": ["banner", "sliding banner", "hero"],
+  "icon": "cover-image",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./banner.php",
+    "mode": "edit"
+  }
+}

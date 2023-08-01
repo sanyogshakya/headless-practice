@@ -1,0 +1,13 @@
+{
+  "name": "acf/search",
+  "title": "EB Search",
+  "description": "This block is used to render the search box.",
+  "category": "design",
+  "keywords": ["search", "site search"],
+  "icon": "search",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./search.php",
+    "mode": "preview"
+  }
+}

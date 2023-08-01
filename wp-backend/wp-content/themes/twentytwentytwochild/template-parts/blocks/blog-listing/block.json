@@ -1,0 +1,13 @@
+{
+  "name": "acf/blog-listing",
+  "title": "Blog listing",
+  "description": "A blog listing block.",
+  "category": "design",
+  "keywords": ["blog listing", "blog", "posts listing", "posts"],
+  "icon": "admin-post",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./banner.php",
+    "mode": "edit"
+  }
+}

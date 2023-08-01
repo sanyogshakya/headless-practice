@@ -1,0 +1,13 @@
+{
+  "name": "acf/hchv",
+  "title": "Half Content Half Video",
+  "description": "A half content half video with video-controls.",
+  "category": "design",
+  "keywords": ["half content half video", "video"],
+  "icon": "video-alt",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./hchv.php",
+    "mode": "edit"
+  }
+}

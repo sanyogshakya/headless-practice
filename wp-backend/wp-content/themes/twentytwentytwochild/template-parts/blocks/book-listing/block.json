@@ -1,0 +1,13 @@
+{
+  "name": "acf/book-listing",
+  "title": "Book Listing",
+  "description": "Lists books post type.",
+  "category": "design",
+  "keywords": ["book listing", "book", "listing"],
+  "icon": "book",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./book-listing.php",
+    "mode": "preview"
+  }
+}

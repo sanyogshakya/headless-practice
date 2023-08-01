@@ -1,0 +1,1 @@
+This block does not have any settings. It lists the posts from book post-type.

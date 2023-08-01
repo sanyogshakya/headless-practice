@@ -1,0 +1,13 @@
+{
+  "name": "acf/book-details",
+  "title": "Book Details",
+  "description": "Displays the book details.",
+  "category": "design",
+  "keywords": ["book details", "book", "details"],
+  "icon": "book",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./book-details.php",
+    "mode": "preview"
+  }
+}
